@@ -1,95 +1,38 @@
-<h1 align="center">👋 Olá, eu sou Vinícius Santos</h1>
-<h3 align="center">💻 Desenvolvedor | 🔐 Pentester | ⚙️ Automação & Segurança</h3>
+# Vinícius Santos
+
+Estudante de Segurança da Informação em constante evolução unindo curiosidade, prática e tecnologia para construir, automatizar e compreender o mundo digital.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinícius-santos9090" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/breakers.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/-@breakers.tech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:seu.email@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+### 🤝 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-santos9090)
+[![Instagram](https://img.shields.io/badge/-@breakers.tech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/breakers.tech/)
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
-Sou um **entusiasta da tecnologia** apaixonado por **desenvolvimento web**, **automação** e **segurança ofensiva**.  
-Gosto de construir soluções, entender como as coisas funcionam — e como podem ser exploradas (de forma ética 🕵️‍♂️).
+Sou um estudante apaixonado por tecnologia e segurança da informação.  
+Este espaço serve como meu **portfólio pessoal**, criado para **demonstrar minha evolução**, **expor meus projetos** e **compartilhar um pouco dos meus processos de aprendizado**.
 
-Aqui você encontra uma coletânea dos meus **principais projetos**, divididos entre **criação, automação e exploração**.  
+Já realizei cursos nas áreas de **programação**, **automação** e **pentest**, e venho constantemente estudando para **aperfeiçoar minhas habilidades práticas**.  
+Meu objetivo atual é **conquistar uma oportunidade na área de TI**, especialmente em um **estágio**, para aplicar o que venho aprendendo e seguir evoluindo profissionalmente.
 
----
+Aqui você vai encontrar:
+- Projetos e sites que desenvolvi durante meus estudos;
+- Scripts de automação e pequenas ferramentas criadas por mim;
+- Relatórios de vulnerabilidades realizadas em ambientes **virtuais e controlados** (como o *OWASP Juice Shop*), com foco no aprendizado e na prática ética de pentest.
 
-### 🗂 Estrutura do meu portfólio
-
-#### 🌐 **Sites e Projetos Web**
-> Pasta: `/sites/`  
-Projetos front-end e full-stack feitos com:
-- React, Next.js, Tailwind CSS  
-- Node.js, Express, APIs REST  
-- Deploys via Docker / Vercel  
+Busco sempre aprender, testar ideias novas e encontrar maneiras criativas de aplicar conhecimento técnico na prática. 🚀 
 
 ---
 
-#### ⚙️ **Scripts e Automação**
-> Pasta: `/scripts/`  
-Pequenas ferramentas e scripts criados para automatizar tarefas e explorar integrações, usando:
-- Python 🐍  
-- Bash 💻  
-- Node.js ⚡  
+### Curiosidade 😅
+
+Este GitHub é tipo aquele primeiro servidor que a gente sobe:  
+funciona, mas ninguém sabe exatamente **por quê** e é justamente isso que torna o aprendizado divertido.
 
 ---
 
-#### 🧩 **Relatórios e Pentests**
-> Pasta: `/reports/`  
-Relatórios de vulnerabilidade e testes realizados em ambientes virtuais, como o *OWASP Juice Shop*, com:
-- Escopo e metodologia  
-- Evidências e prints  
-- Impacto e recomendações  
-
-> ⚠️ Todos os testes são realizados de forma **ética** e **controlada**, apenas em ambientes autorizados.
-
----
-
-### 🧰 Tech Stack
-
-| Área | Tecnologias |
-|------|--------------|
-| **Frontend** | HTML, CSS, JS, React, Next.js, Tailwind |
-| **Backend** | Node.js, Express, Flask |
-| **DevOps** | Docker, GitHub Actions, Linux |
-| **Security** | nmap, nikto, Burp Suite, sqlmap, OWASP Juice Shop |
-| **Automation** | Python, Bash, APIs REST |
-
----
-
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinicius-santos9090&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vinicius-santos9090&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-### 💬 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinícius-santos9090" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/breakers.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/-@breakers.tech-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">💡 “A verdadeira segurança vem do conhecimento — e da ética.”</p>
-<p align="center">Feito com ❤️ por <b>Vinícius Santos</b></p>
+> “A evolução vem de quem tenta, erra, quebra e reconstrói com mais consciência.”
