@@ -16,13 +16,8 @@ Estudante de Segurança da Informação em constante evolução unindo curiosida
 Sou um estudante apaixonado por tecnologia e segurança da informação.  
 Este espaço serve como meu **portfólio pessoal**, criado para **demonstrar minha evolução**, **expor meus projetos** e **compartilhar um pouco dos meus processos de aprendizado**.
 
-Já realizei cursos nas áreas de **programação**, **automação** e **pentest**, e venho constantemente estudando para **aperfeiçoar minhas habilidades práticas**.  
-Meu objetivo atual é **conquistar uma oportunidade na área de TI**, especialmente em um **estágio**, para aplicar o que venho aprendendo e seguir evoluindo profissionalmente.
-
 Aqui você vai encontrar:
 - Projetos e sites que desenvolvi durante meus estudos;
-- Scripts de automação e pequenas ferramentas criadas por mim;
-- Relatórios de vulnerabilidades realizadas em ambientes **virtuais e controlados** (como o *OWASP Juice Shop*), com foco no aprendizado e na prática ética de pentest.
 
 Busco sempre aprender, testar ideias novas e encontrar maneiras criativas de aplicar conhecimento técnico na prática. 🚀 
 
